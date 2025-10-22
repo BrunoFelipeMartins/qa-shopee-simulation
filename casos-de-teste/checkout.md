@@ -1,4 +1,4 @@
-# 🧾 Casos de Teste - Catálogo e Produtos
+# 🧾 Casos de Teste - Checkout
 
 | ID | Requisito | Caso de Teste | Passos | Resultado Esperado |
 |----|------------|----------------|--------|--------------------|
