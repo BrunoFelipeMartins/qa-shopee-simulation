@@ -8,7 +8,7 @@
 1. Abri item do catálogo  
 2. deslocar para baixo, na parte da descrição sem a tela estar maximizada  
 **Resultado Esperado:** Toda a descrição dos itens deveriam estar aparecendo  
-**Resultado Obtido:** A area da descrição consta em branco quando a tela menor
+**Resultado Obtido:** A area da descrição consta em branco quando a tela menor 
 **Status:** Aberto  
 
 ---
