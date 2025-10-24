@@ -8,8 +8,11 @@
 1. Abri item do catálogo  
 2. deslocar para baixo, na parte da descrição sem a tela estar maximizada  
 **Resultado Esperado:** Toda a descrição dos itens deveriam estar aparecendo  
-**Resultado Obtido:** A area da descrição consta em branco quando a tela menor 
-**Status:** Aberto  
+**Resultado Obtido:** A area da descrição consta em branco quando a tela menor  
+**Status:** Aberto
+
+<img width="934" height="855" alt="Não consta a descrição do item, aparece somente tela em branco" src="https://github.com/user-attachments/assets/21acb42e-bbfc-4e22-bfc9-3f547ed713ad" />
+
 
 ---
 
