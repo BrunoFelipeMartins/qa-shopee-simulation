@@ -1,14 +1,15 @@
 # Relatório de Bugs
 
 ## BUG-001
-**Título:** Frete não atualiza ao alterar endereço  
-**Severidade:** Média  
+
+**Título:** CT04-RF07 - Catálogo e produtos 
+**Descrição:** Detalhes dos itens em branco
+**Severidade:** Baixa 
 **Passos para reproduzir:**  
-1. Adicionar produto ao carrinho  
-2. Ir para o checkout  
-3. Alterar endereço de entrega  
-**Resultado Esperado:** O valor do frete deve atualizar conforme o novo endereço  
-**Resultado Obtido:** O valor do frete permanece o mesmo  
+1. Abri item do catálogo  
+2. deslocar para baixo, na parte da descrição sem a tela estar maximizada  
+**Resultado Esperado:** Toda a descrição dos itens deveriam estar aparecendo  
+**Resultado Obtido:** A area da descrição consta em branco quando a tela menor
 **Status:** Aberto  
 
 ---
