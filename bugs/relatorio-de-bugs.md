@@ -17,12 +17,17 @@
 ---
 
 ## BUG-002
-**Título:** Campo de pagamento não valida número de cartão incorreto  
-**Severidade:** Alta  
+**Título:** CT04-RF09 - Carrinho de compras  
+**Descrição:** Falha ao trocar opção de envio  
+**Severidade:** Média  
 **Passos:**  
-1. Selecionar pagamento por cartão  
-2. Inserir número inválido (ex: 1234 5678 9999 0000)  
-3. Confirmar pagamento  
-**Resultado Esperado:** O sistema deve exibir mensagem de erro  
-**Resultado Obtido:** Pagamento é processado normalmente  
+1. Selecionar item no catálogo  
+2. Inserir item no carrinho  
+3. Modificar forma de entrega
+4. Marca forma de entrega em "Retirada no Local" 
+**Resultado Esperado:** O sistema deve alterar a modalidade de entrega, como também os valores  
+**Resultado Obtido:** Ao alterar a forma de entrega, o sistema começa a carregar e não conclui a mudança  
 **Status:** Aberto
+
+<img width="941" height="743" alt="image" src="https://github.com/user-attachments/assets/27d5dae6-cdab-4119-b142-fa5b583efdd4" />
+
