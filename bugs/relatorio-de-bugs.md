@@ -1,10 +1,9 @@
 # Relatório de Bugs
 
 ## BUG-001
-
-**Título:** CT04-RF07 - Catálogo e produtos 
-**Descrição:** Detalhes dos itens em branco
-**Severidade:** Baixa 
+**Título:** CT04-RF07 - Catálogo e produtos  
+**Descrição:** Detalhes dos itens em branco  
+**Severidade:** Baixa  
 **Passos para reproduzir:**  
 1. Abri item do catálogo  
 2. deslocar para baixo, na parte da descrição sem a tela estar maximizada  
