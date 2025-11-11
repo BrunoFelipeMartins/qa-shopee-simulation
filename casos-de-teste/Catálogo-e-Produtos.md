@@ -3,8 +3,8 @@
 | ID | Requisito | Caso de Teste | Passos | Resultado Esperado |
 |----|------------|----------------|--------|--------------------|
 | CT-01 | RF-01 | Funcionamento da barra de pesquisa, ao clicar na lupa de pesquisa. | 1. Pesquisar itens <br>2. Clicar na lupa para realizar a pesquisa <br> | Deve enviar a pesquisa. |
-| CT-01 | RF-02 | Funcionamento da barra de pesquisa, ao clicar no ENTER para pesquisa.  | 1. Pesquisar itens <br>2. Clicar no ENTER para realizar a pesquisa <br> | Deve enviar o comando de pesquisa. |
-| CT-01 | RF-03 | Funcionamento da barra de pesquisa, digitar item e clicar na opção oferecia pelas opções. | 1. Pesquisar item <br>2. clicar em um dos itens das opções oferecidas pela barra ao escrever parte do nome do item. <br> | Deve realizar a pesquisa no item selecionado nas opções. |
+| CT-01 | RF-02 | Funcionamento da barra de pesquisa, ao pressionar o ENTER para pesquisa.  | 1. Pesquisar itens <br>2. Pressionar o ENTER para realizar a pesquisa <br> | Deve enviar o comando de pesquisa. |
+| CT-01 | RF-03 | Utilizar item do historico de pesquisa | 1. Selecionar um item do historico de pesquisa, ao clicar na barra de pesquisa ira aparecer os itens pesquisados anteriormente <br>2. clicar em um dos itens do historico. <br> | Deve realizar a pesquisa no item selecionado. |
 | CT-01 | RF-04 | Pesquisar produtos com nomes escritos de formas diferentes, como todos em UPPERCASE. | 1. Pesquisar item com letra em UPPERCASE Ex: GARRAFA <br> | Deve buscar itens Garrafa, mesmo com nome sendo escrito em UPPERCASE|
 | CT-01 | RF-05 | Pesquisar produtos com nomes escritos de formas diferentes, como todos em lowercase. | 1. Pesquisar item com letra em lowercase Ex: garrafa <br> | Deve buscar itens Garrafa, mesmo com nome sendo escrito em lowercase|
 | CT-01 | RF-06 | Pesquisar produtos com nomes escritos de formas diferentes, como sem acentuação para vereficar se o buscador busca os nomes referentes, ex: armario/Armário | 1. Pesquisar item armario | Deve buscar itens correspondente a Armário, mesmo sendo escrito armario. |
