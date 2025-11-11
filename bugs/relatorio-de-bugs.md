@@ -2,9 +2,9 @@
 
 ## BUG-001 - Falha de responsividade
 **Título:** CT01-RF12 - Catálogo e produtos  
-**Descrição:** Descrição/detalhes dos itens não aparecem na pagina 
-**Severidade:** Baixa 
-**Ambiente de teste:** Navegador web chorme, desktop windows 11 
+**Descrição:** Descrição/detalhes dos itens não aparecem na pagina  
+**Severidade:** Baixa  
+**Ambiente de teste:** Navegador web chorme, desktop windows 11  
 **Passos para reproduzir:**  
 1. Acessar Shopee pelo navegador web, através de um desktop
 2. Utilizando o navegador sem estar em tela cheia (sem maximixar)
