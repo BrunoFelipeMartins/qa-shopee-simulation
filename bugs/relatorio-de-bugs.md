@@ -1,17 +1,20 @@
 # Relatório de Bugs
 
-## BUG-001
+## BUG-001 - Falha de responsividade
 **Título:** CT04-RF07 - Catálogo e produtos  
-**Descrição:** Detalhes dos itens em branco  
+**Descrição:** Descrição/detalhes dos itens não aparecem na pagina 
 **Severidade:** Baixa  
 **Passos para reproduzir:**  
-1. Abri item do catálogo  
-2. deslocar para baixo, na parte da descrição sem a tela estar maximizada  
-**Resultado Esperado:** Toda a descrição dos itens deveriam estar aparecendo  
-**Resultado Obtido:** A area da descrição consta em branco quando a tela menor  
+1. Acessar Shopee pelo navegador web, através de um descktop
+2. Utilizando o navegador sem estar em tela cheia (sem maximixar)
+3. Abrir um item do catálogo
+4. Deslizar para baixo, onde abaixo do nome da loja deve constar descrição e os detalhes do item
+5. 
+**Resultado Esperado:** A descrição do item deve aparecer com os detalhes  
+**Resultado Obtido:** A area da descrição demarcada consta em branco, não detalhando o item e sua descrição detalhada.
 **Status:** Aberto
 
-<img width="934" height="855" alt="Não consta a descrição do item, aparece somente tela em branco" src="https://github.com/user-attachments/assets/21acb42e-bbfc-4e22-bfc9-3f547ed713ad" />
+<img width="934" height="855" alt="Não consta a descrição do item, aparece somente tela em branco1" src="https://github.com/user-attachments/assets/43950ae8-f981-4928-a8da-f52edc364d8e" />
 
 
 ---
