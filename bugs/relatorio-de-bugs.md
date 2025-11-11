@@ -9,6 +9,7 @@
 2. Utilizando o navegador sem estar em tela cheia (sem maximixar)
 3. Abrir um item do catálogo
 4. Deslizar para baixo, onde abaixo do nome da loja deve constar descrição e os detalhes do item
+   
 **Resultado Esperado:** A descrição do item deve aparecer com os detalhes  
 **Resultado Obtido:** A area da descrição demarcada consta em branco, não detalhando o item e sua descrição detalhada.
 **Status:** Aberto
