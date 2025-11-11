@@ -1,11 +1,12 @@
 # Relatório de Bugs
 
 ## BUG-001 - Falha de responsividade
-**Título:** CT04-RF07 - Catálogo e produtos  
+**Título:** CT01-RF12 - Catálogo e produtos  
 **Descrição:** Descrição/detalhes dos itens não aparecem na pagina 
-**Severidade:** Baixa  
+**Severidade:** Baixa
+**Ambiente de teste:** Navegador web chorme, desktop windows 11.
 **Passos para reproduzir:**  
-1. Acessar Shopee pelo navegador web, através de um descktop
+1. Acessar Shopee pelo navegador web, através de um desktop
 2. Utilizando o navegador sem estar em tela cheia (sem maximixar)
 3. Abrir um item do catálogo
 4. Deslizar para baixo, onde abaixo do nome da loja deve constar descrição e os detalhes do item
