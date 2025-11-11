@@ -7,7 +7,7 @@
 **Ambiente de teste:** Navegador web chorme, desktop windows 11  
 **Passos para reproduzir:**  
 1. Acessar Shopee pelo navegador web, através de um desktop
-2. Utilizando o navegador sem estar em tela cheia (sem maximixar)
+2. Utilizando o navegador sem estar em tela cheia (sem maximizar)
 3. Abrir um item do catálogo
 4. Deslizar para baixo, onde abaixo do nome da loja deve constar descrição e os detalhes do item
    
