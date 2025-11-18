@@ -1,8 +1,8 @@
 # 🧾 Casos de Teste - Catálogo e Produtos  
 ** Todos os casos de testes são realizados pela web no desktop.
 
-| ID    | Requisito | Caso de Teste | Passos | Resultado Esperado |
-|-------|------------|----------------|--------|--------------------|
+| ID | Requisito | Caso de Teste | Passos | Resultado Esperado |
+|---------|------------|----------------|--------|--------------------|
 | CT-01 | RF-01 | Funcionamento da barra de pesquisa, ao clicar na lupa de pesquisa. | 1. Pesquisar itens <br>2. Clicar na lupa para realizar a pesquisa <br> | Deve enviar a pesquisa. |
 | CT-02 | RF-02 | Funcionamento da barra de pesquisa, ao pressionar o ENTER para pesquisa.  | 1. Pesquisar itens <br>2. Pressionar o ENTER para realizar a pesquisa <br> | Deve enviar o comando de pesquisa. |
 | CT-03 | RF-03 | Utilizar item do historico de pesquisa | 1. Selecionar um item do historico de pesquisa, ao clicar na barra de pesquisa ira aparecer os itens pesquisados anteriormente <br>2. clicar em um dos itens do historico. <br> | Deve realizar a pesquisa no item selecionado. |
